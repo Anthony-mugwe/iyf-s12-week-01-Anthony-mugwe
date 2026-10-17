@@ -6,13 +6,13 @@
 
 ## 1. Website Tested
 
-Website: https://example.com
+Website: https://www.novelfire.com
 
 ## 2. Browser and Device
 
-Browser: [Enter the browser you actually used]
+Browser: Chrome browser 
 
-Device: [Enter the device you actually used]
+Device: Phone 
 
 ## 3. Inspecting the Page
 
