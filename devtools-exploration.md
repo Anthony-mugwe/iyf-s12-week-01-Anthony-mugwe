@@ -6,7 +6,7 @@
 
 ## 1. Website Tested
 
-Website: https://www.novelfire.net
+Website: https://novelfire.net
 
 ## 2. Browser and Device
 
