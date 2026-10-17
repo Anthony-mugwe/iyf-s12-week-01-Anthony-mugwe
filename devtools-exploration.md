@@ -44,10 +44,3 @@ Select the element in the Elements panel and edit its HTML or CSS. These changes
 
 I learned how to inspect HTML elements, identify headings, examine page structure, and test temporary changes using developer tools.
 
-## 5. Challenges Faced
-
-[Describe a real challenge you encountered and how you solved it.]
-
-## 6. Evidence
-
-[Add a screenshot of your own developer tools inspection if required.]
